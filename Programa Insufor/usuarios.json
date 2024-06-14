@@ -1,0 +1,18 @@
+{
+    "gerente": {
+        "contrasena": "gerente123",
+        "rol": "gerente"
+    },
+    "tomi": {
+        "contrasena": "123",
+        "rol": "empleado"
+    },
+    "bruno": {
+        "contrasena": "123",
+        "rol": "cliente"
+    },
+    "pepe": {
+        "contrasena": "pepe",
+        "rol": "empleado"
+    }
+}
